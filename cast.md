@@ -5,3 +5,6 @@ tiger
 crocodile
 zebra
 panda
+hippo
+crane
+squerral
