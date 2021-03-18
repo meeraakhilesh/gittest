@@ -5,3 +5,6 @@ tiger
 crocodile
 zebra
 panda
+elaphant
+snake
+peacock
