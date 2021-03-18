@@ -8,3 +8,6 @@ panda
 elaphant
 snake
 peacock
+hippo
+crane
+squerral
